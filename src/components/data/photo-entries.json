@@ -1,0 +1,40 @@
+{
+  "itemlist" :
+  [
+    {
+      "src"      : "berlin.jpg",
+      "caption"  : "The Heart of Europe",
+      "location" : "Berlin, Germany"
+    },
+
+    {
+      "src"      : "beverly-hills.jpg",
+      "caption"  : "Southern California",
+      "location" : "Beverly Hills, USA"
+    },
+
+    {
+      "src"      : "maple-leaf.jpg",
+      "caption"  : "Autumn",
+      "location" : "Toronto, Canada"
+    },
+
+    {
+      "src"      : "hawaii.jpg",
+      "caption"  : "Deep Thought",
+      "location" : "Kona, Hawaii, USA"
+    },
+
+    {
+      "src"      : "wings.jpg",
+      "caption"  : "Wanderlust",
+      "location" : "San Francisco, USA"
+    },
+
+    {
+      "src"      : "london.jpg",
+      "caption"  : "Trafalgar Square",
+      "location" : "London, UK"
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+
+body {
+  background-color: #0E0E0E;
+  color: #DDEEEE;
+}
+
+img {
+ margin: 0;
+}
+
+.banner {
+  max-width: 80%;
+}
+
+.flex-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.photo-caption {
+  font-size: 1.2rem;
+  font-weight: bold;
+  margin: 0.3rem auto;
+}
+
+.photo-comment {
+  color: lightgreen;
+  font-size: 0.8rem;
+  margin: 0.3rem auto;
+}
+
+.photo-entry-block {
+  margin: 2rem;
+  width: 30%;
+}
+
+.photo-img {
+  width: 80%;
+}
+
+.photo-info {
+  font-size: 1rem;
+  margin: 0.3rem auto;
+}
+
+.statusBar {
+  height: 2.5rem;
+}
+
+.statusBar img {
+  margin-left: 1.2rem;
+  margin-right: 0.4rem;
+  vertical-align: middle;
+}
+
+.user-manager-block {
+  font-size: 1rem;
+  height: 5rem;
+  margin-bottom: 2rem;
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 80%;
+  padding: 0.5rem;
+  width: 50rem;
+}
+
+.user-manager-block-active-background {
+  background-color: #124018;
+}
+
+.user-manager-block-inactive-background {
+  background-color: #3F4446;
+}
